@@ -7,7 +7,7 @@ slides: null
 url_pdf: ""
 summary: An example event.
 title: Example Event
-location: somewhere
+takeplace: somewhere
 date: 2030-06-01T13:00:00Z
 date_end: 2030-06-01T15:00:00Z
 all_day: false
